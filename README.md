@@ -1,12 +1,12 @@
-# Awesome Game Status Tracker - Automated Crack Status (DRM) & Scene Database
+# Steam Cracked Games - Crack Status of All Games
 
 Global database for gaming security analysis. Track the real-time crack status of Steam titles and monitor the efficacy of DRM technologies and Scene Group developments - Crack Status, DRM Status, Crack Release, CrackWatch and more.
-
-This project serves as a lightweight, ad-free informational dashboard for researchers, gamers, and technology enthusiasts who want to track the evolution of gaming security and release history.
 
 ## 🚀 Official Live Database
 
 The complete, real-time updated system is fully accessible globally. You can check the live tracking status of any specific title here:
+
+👉 **[Steam Cracked Games](https://steamcrackedgames.org)**
 
 👉 **[Crack Status](https://steamcrackedgames.org)**
 
