@@ -8,7 +8,7 @@ This project serves as a lightweight, ad-free informational dashboard for resear
 
 The complete, real-time updated system is fully accessible globally. You can check the live tracking status of any specific title here:
 
-👉 **[Steam Cracked Games - Crack Status](https://steamcrackedgames.org)**
+👉 **[Crack Status](https://steamcrackedgames.org)**
 
 ---
 
